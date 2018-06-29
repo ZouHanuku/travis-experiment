@@ -1,3 +1,5 @@
-language: javascript
-rvm:
- - ES6
+language: node_js
+node_js:
+  - "8"
+  - "iojs"
+  - "7"
